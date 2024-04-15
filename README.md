@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kris-panko
 - 👀 I’m interested in coding, singing, guitar, and snowboarding!
-- 🌱 I’m currently learning Python and Flask.
+- I know Python, Flask, React, Javascript, SQL, SQLlite, MyTablePlus
+- 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on open source projects, React projects, hackathons, etc. 
 - 📫 How to reach me: kristipanko@gmail.com
 
